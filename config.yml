@@ -14,3 +14,6 @@ repo_names:
 # Provide any URLs for your Data Models assignment
 11-models-from-data:
   - https://github.com/Kayla-Rude/ATLAS-iOS-Fall-22/tree/main/TipTime
+  
+# Provide the URL for your Project 1 Check-In
+project-check-in-1: https://github.com/Kayla-Rude/ATLAS-iOS-Fall-22/issues/1 
